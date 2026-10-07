@@ -1,0 +1,1 @@
+Zero-shot classification exercise using a pre-existing model to analyse some text, only partially done as I haven't had time to read the book to answer the questions.
